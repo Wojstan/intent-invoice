@@ -1,4 +1,4 @@
-# intent-invoice
+# Intent Invoice
 
 To install dependencies:
 
